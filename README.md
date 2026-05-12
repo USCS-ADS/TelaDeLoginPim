@@ -34,4 +34,4 @@ A organização dos arquivos segue o padrão:
 - [x] Estilização customizada com foco em UX (Experiência do Usuário).
 
 ---
-Desenvolvido por **Vitor Medina do Nascimento**, **Raphael Ramos Carneiro**, **Giovanna Tamos**, **Ana Luiza** e **Arthur Ribeiro**  como parte das atividades acadêmicas na **USCS**.
+Desenvolvido por **Vitor Medina do Nascimento**, **Raphael Ramos Carneiro**, **Giovanna De Oliveira Tamos**, **Ana Luiza Lourenço da Silva** e **Arthur Rodrigues da Silva**  como parte das atividades acadêmicas na **USCS**.
